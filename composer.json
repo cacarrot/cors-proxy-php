@@ -1,0 +1,8 @@
+{
+  "name": "cacarrot/cors-proxy",
+  "description": "CORS Proxy",
+  "require": {},
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "^159.0"
+  }
+}
