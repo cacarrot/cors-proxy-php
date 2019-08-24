@@ -20,6 +20,7 @@ switch ($type) {
         header("Content-Type: application/json; charset=UTF-8");
         break;
     case 'plain':
+    case 'text':
         header("Content-Type: text/plain; charset=UTF-8");
         break;
     case 'html':

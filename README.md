@@ -4,9 +4,15 @@
 
 ## 🚀 Usage
 
-### Development with Docker
+### Run locally
 
 ```
+# on Development server
+php -S localhost:8080 -t public
+```
+
+```
+# on Docker
 docker-compose up web
 ```
 
